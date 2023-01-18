@@ -17,12 +17,13 @@ You might want to consider using something like the [All Contributors](https://g
 
 ## Technology
 
-- Java 1.8
-- Gradle 7.6.0
-- JCommader 1.82
-- Feige-core 12.1
-- Feign-gson 12.1
-- JUnit 5.8.2
+- IDE: [Intellij IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows)
+- [Java 8](https://www.oracle.com/co/java/technologies/javase/javase8-archive-downloads.html)
+- [Gradle 7.6.0](https://gradle.org/)
+- [JCommader 1.82](https://mvnrepository.com/artifact/com.beust/jcommander)
+- [Feign-core 12.1](https://mvnrepository.com/artifact/io.github.openfeign/feign-core)
+- [Feign-gson 12.1](https://mvnrepository.com/artifact/io.github.openfeign/feign-gson)
+- [JUnit 5.8.2](https://junit.org/junit5/)
 
 ## Documentation THE STAR WARS API
 
@@ -35,4 +36,4 @@ This project uses the following license: [<license_name>](<link>).
 
 
 ---
-⌨️ con :purple_heart: por [Paula Abad](https://github.com/Paulabad-BigData) 😊
+⌨️ with :purple_heart: by [Paula Abad](http://www.linkedin.com/in/paulabadt) 😊
